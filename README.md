@@ -1,4 +1,4 @@
-[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)]
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://SriArunM.io)
 
 <h1 align="center">Hi 👋, I'm Sri Arun</h1>
 <h3 align="center">A passionate ML enthusiast from India</h3>
