@@ -53,8 +53,9 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriarunm&show_icons=true&locale=en&layout=compact" alt="sriarunm" /></p>
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sriarunm&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 400px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sriarunm&show_icons=true&locale=en" alt="GitHub Stats" style="width: 400px; margin-bottom: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriarunm&" alt="GitHub Streak" style="width: 400px;">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriarunm&show_icons=true&locale=en" alt="sriarunm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriarunm&" alt="sriarunm" /></p>
